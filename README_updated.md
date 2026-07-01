@@ -123,16 +123,6 @@ Planned
 
 ---
 
-## Intended Audience
-
-- Quant Researchers
-- Quant Developers
-- Students learning market microstructure
-- Market-making researchers
-- Systematic traders
-
----
-
 ## Current Limitations
 
 Current focus is on providing a robust **research framework** rather than production execution.
