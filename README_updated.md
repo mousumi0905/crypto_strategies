@@ -112,14 +112,7 @@ Completed
 
 Planned
 
-- ⬜ Order Flow Imbalance
-- ⬜ Queue imbalance
-- ⬜ Microprice models
-- ⬜ Cross-exchange arbitrage
-- ⬜ Walk-forward optimization
-- ⬜ Portfolio backtesting
-- ⬜ Indian market data connector
-- ⬜ Level-2 order book replay
+- exploring new alphas and will keep adding them, this is only start
 
 ---
 
