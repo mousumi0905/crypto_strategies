@@ -1,5 +1,5 @@
 
-# Crypto Quant Research Framework
+# Quant Research Framework
 
 A modular framework for developing, backtesting, statistically evaluating, and paper-trading **crypto market-making and mid-frequency trading (MFT)** strategies before risking real capital.
 
